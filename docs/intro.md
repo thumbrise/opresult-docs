@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Быстрый старт
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Время чтения 3 минуты
 
-## Getting Started
+## Установка
 
 Get started by **creating a new site**.
 
